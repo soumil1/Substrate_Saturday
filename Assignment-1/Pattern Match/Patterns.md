@@ -20,7 +20,7 @@ fn match_number(n: i32) {
     }
 }
 
-solution ->
+solution -> As a pattern matching, add 2 | 3 | 4 | 5 to it
 
 ```
 
@@ -43,7 +43,7 @@ fn main() {
     }
 }
 
-solution ->
+solution -> Added a suitable x and y value (x: 2, y: 20).
 ```
 
 3
@@ -66,7 +66,7 @@ fn main() {
     }
 }
 
-solution ->
+solution -> It should be @3..=7 in id, not 3..7.
 ```
 
 4
@@ -81,7 +81,7 @@ fn main() {
     }
 }
 
-solution ->
+solution -> If condition is added
 ```
 
 5
@@ -97,7 +97,7 @@ fn main() {
     }
 }
 
-solution ->
+solution -> Added a match condition
 ```
 
 6
@@ -112,6 +112,6 @@ fn main() {
     }
 }
 
-solution ->
+solution -> The mut isn't used in the match condition, so we can remove the &mut inside the match r
 
 ```

@@ -21,7 +21,7 @@ fn main() {
     };
 }
 
-solution -> 
+solution -> using matching method
 ```
 
 2
@@ -41,7 +41,7 @@ fn main() {
     assert_eq!(binary, 1);
 }
 
-solution ->
+solution -> We can determine whether it is true or false using the match method
 ```
 
 3
@@ -79,7 +79,7 @@ fn show_message(msg: Message) {
     }
 }
 
-solution ->
+solution -> Adding the maximum value of 255 to test the assert value
 ```
 
 matches!
@@ -95,7 +95,7 @@ fn main() {
     }
 } 
 
-solution ->
+solution -> Added matches attribute 
 ```
 
 5
@@ -118,7 +118,7 @@ fn main() {
     assert_eq!(count, 2);
 }
 
-solution ->
+solution -> Method matches is added!(e, MyEnum::Foo)
 ```
 
 If let
@@ -133,7 +133,7 @@ fn main() {
     }
 }
 
-solution ->
+solution -> The match statement is changed to if let
 ```
 
 7
@@ -150,7 +150,7 @@ fn main() {
     }
 }
 
-solution -> 
+solution ->  added the if let condition
 ```
 
 8
@@ -171,7 +171,7 @@ fn main() {
     }
 }
 
-solution -> 
+solution -> if let is replaced by match condition
 ```
 
 Shadowing
@@ -191,6 +191,6 @@ fn main() {
     }
  }
 
-solution ->
+solution -> assert_eq should we be Some(30)
 
 ```
