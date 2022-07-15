@@ -1,6 +1,6 @@
 # Substrate_Saturday
 
-I'm going to put all of my Rust solutions from the 3-month Substrate Bootcamp in this repo.
+I'm going to put all of my Rust and Substrate solutions from the 3-month Substrate Bootcamp in this repo.
 
 </br >
 </br >
