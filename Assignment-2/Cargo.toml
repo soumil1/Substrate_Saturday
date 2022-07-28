@@ -5,8 +5,5 @@ author = ["Soumil Singh <soumil096@duck.com>"]
 edition = "2018"
 
 
-```toml
 [dependencies]
 markdown = "0.3"
-
-```
