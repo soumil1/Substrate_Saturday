@@ -21,10 +21,10 @@ fn main() {
     println!("Success!");
 }
 // Completed the area method and returned Rectangle's area
-```rust
+```
 
 2
-```rust
+```
 // Only fill in the blanks, DON'T remove any line! IMPORTANT
 #[derive(Debug)]
 struct TrafficLight {
@@ -46,10 +46,10 @@ fn main() {
     // ..otherwise, there will be an error below
     println!("{:?}", light);
 }
-```rust
+```
 
 3
-```rust
+```
 struct TrafficLight {
     color: String,
 }
@@ -69,12 +69,12 @@ impl TrafficLight {
 fn main() {
     println!("Success!");
 }
-```rust
+```
  
 Associated Functions
 
 4
-```rust
+```
 #[derive(Debug)]
 struct TrafficLight {
     color: String,
@@ -101,12 +101,12 @@ fn main() {
 
     println!("Success!");
 }
-```rust
+```
 
 Multiple impl blocks
 
 5
-```rust
+```
 struct Rectangle {
     width: u32,
     height: u32,
@@ -128,12 +128,12 @@ impl Rectangle {
 fn main() {
     println!("Success!");
 }
-```rust
+```
 
 Enums
 
 6
-```rust
+```
 #[derive(Debug)]
 enum TrafficLightColor {
     Red,
@@ -160,4 +160,4 @@ fn main() {
     println!("{:?}", c);
 }
 
-```rust
+```
