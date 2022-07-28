@@ -5,4 +5,4 @@ author = ["Soumil Singh <soumil096@duck.com>"]
 edition = "2018"
 
 [dependencies]
-markdown = "0.3"
+markdown = "0.3.0"
