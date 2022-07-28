@@ -54,6 +54,10 @@ fn give_ownership() -> String {
     s
 }
 
+// output: hello, world
+
+// solution: Remove extra lines
+
 ```
 
 4
