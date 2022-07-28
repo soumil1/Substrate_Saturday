@@ -1,0 +1,8 @@
+[package]
+name = "hello world"
+version = "0.1.0"
+author = ["Soumil Singh <soumil096@duck.com>"]
+edition = "2018"
+
+[dependencies]
+markdown = "0.3"
